@@ -144,6 +144,9 @@
   <ItemGroup>
     <ClCompile Include="micPython.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="micPython.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
